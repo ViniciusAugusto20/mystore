@@ -1,0 +1,252 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 139.39,
+      "description": "Blusão com gola com capuz e manga longa com ribana. Além de leve e confortável por ser inteiramente confeccionado em algodão, ele é uma peça curinga que combina com os mais diversos looks e ocasiões para uso.",
+      "name": "BLUSÃO EM ALGODÃO COM CAPUZ E MANGA COM RIBANA CINZA",
+      "quantity_available": 4,
+      "summary": [
+        "Blusão masculino",
+        "Gola com capuz",
+        "Manga com ribana",
+        "Sem estampa",
+        "Marca: Blue Steel",
+        "Material Sustentável",
+        "Tecido: Algodão (Malha)",
+        "Composição: 100% Algodão"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/601206258/zoom/1.jpg",
+      "isInCart": true
+    },
+    {
+      "id": 2,
+      "price": 99.99,
+      "description": "Blusa manga longa bufante com estampa listrada. Versátil e moderninha, a peça confeccionada em algodão e elastano, mescla o melhor dos dois mundos, une o conforto e não amassa facilmente, perfeita para o uso diário.",
+      "name": "BLUSA EM COTTON COM MANGA LONGA BUFANTE BRANCO",
+      "quantity_available": 1,
+      "summary": [
+        "Blusa feminina",
+        "Gola redonda",
+        "Manga longa bufante",
+        "Fechamento gota nas costas",
+        "Estampa de listras",
+        "Marca: A-Collection",
+        "Material Sustentável",
+        "Tecido: Cotton (Malha)",
+        "Composição: 96% Algodão 04% Elastano"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/601256343/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "price": 139.39,
+      "description": "Blusão em moletom com capuz, manga raglan e punhos ajustados. Além de mega confortável por seu tecido ser em moleton, essa peça é cheia de estilo, além de muito descolada. ",
+      "name": "BLUSÃO EM MOLETON COM CAPUZ E BOLSO CANGURU LARANJA",
+      "quantity_available": 12,
+      "summary": [
+        "Blusão masculino",
+        "Gola com capuz",
+        "Manga raglan",
+        "Punhos ajustados",
+        "Bolso canguru",
+        "Sem estampa",
+        "Marca: Blue Steel",
+        "Material Sustentável",
+        "Tecido: Molteon",
+        "Composição: 60% Algodão 40% Poliéster"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/549830044/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "price": 219.9,
+      "description": "Kimono com abertura frontal total, cinto faixa e manga longa bufante. Confeccionado em algodão, além de bonito e charmosp, o modelo é também superversátil e perfeito para complementar o look.",
+      "name": "KIMONO ALFAIATARIA EM ALGODÃO COM ABERTURA TOTAL E CINTO FAIXA BEGE",
+      "quantity_available": 2,
+      "summary": [
+        "Kimono Feminino",
+        "Alfaiataria",
+        "Abertura frontal total",
+        "Manga longa bufante",
+        "Pregas no punho",
+        "Cinto faixa para amarração",
+        "Sem estampa",
+        "Marca: A-Collection",
+        "Material Sustentável",
+        "Processo Sustentável",
+        "Tecido: Algodão (Tecido Plano)",
+        "Composição: 100% Algodão"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/624053442/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 5,
+      "price": 299.9,
+      "description": "Jaqueta bomber em material sintético, sem estampa. Moderna e cheia de estilo, a peça é uma opção interessante para complementar o look casual nos dias mais frios.",
+      "name": "JAQUETA BOMBER EM MATERIAL SINTÉTICO MARROM",
+      "quantity_available": 42,
+      "summary": [
+        "Jaqueta masculina",
+        "Modelo bomber",
+        "Gola média em ribana",
+        "Recorte pala",
+        "Fechamento em zíper",
+        "Manga longa com punho ajustado",
+        "Sem estampa",
+        "02 bolsos frontais",
+        "Barra ajustada",
+        "Marca: Marfinno",
+        "Tecido: Fake Suede (Tecido Plano)",
+        "Composição: 95% Poliéster 05% Elastano",
+        "Composição forro: 100% Poliéster",
+        "Composição bolso: 100% Poliéster"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/599387044/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 6,
+      "price": 199.9,
+      "description": "Blusa com gola alta e manga longa bufante, em tricô. Em malha texturizada e com detalhe de babados na parte frontal, a blusa é extremamente charmosa, além de muito confortável e versátil. Uma ótima opção para looks do dia a dia.",
+      "name": "BLUSA EM TRICÔ COM MANGAS LONGAS E BABADOS MARROM",
+      "quantity_available": 7,
+      "summary": [
+        "Blusa Feminina",
+        "Gola alta",
+        "Manga longa bufante",
+        "Babados frontais",
+        "Gola, punho e barra canelados",
+        "Texturizada",
+        "Marca: Cortelle",
+        "Processo Sustentável",
+        "Tecido: Tricô (Tecido Plano)",
+        "Composição: 91% Acrílico 09% Poliamida"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/597026190/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 7,
+      "price": 179.9,
+      "description": "Blusão comfort com recorte em bloco de cor. Sua modelagem comfort faz da peça uma opção confortável, além disso, o recorte de cor na parte superior do produto dá a ele um charme todo especial.",
+      "name": "BLUSÃO EM ALGODÃO COM RECORTE DE COR VERDE",
+      "quantity_available": 0,
+      "summary": [
+        "Blusão masculino",
+        "Fit Comfort",
+        "Gola redonda",
+        "Manga longa com ribana",
+        "Barra com ribana",
+        "Detalhes em recorte de cor na parte superior",
+        "Marca: Marfinno",
+        "Material Sustentável",
+        "Tecido: Algodão (Malha)",
+        "Composição: 100% Algodão"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/598296052/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 8,
+      "price": 399.9,
+      "description": "Casaco alongado com fechamento por botões. Além de super fofo, o modelo também é confortável e quentinho. Perfeito para compor looks em dias frios, com muito estilo.",
+      "name": "CASACO ALONGADO COM ABOTOAMENTO FRONTAL PRETO",
+      "quantity_available": 1,
+      "summary": [
+        "Casaco feminino",
+        "Modelo alongado",
+        "Fechamento por botões",
+        "Sem estampa",
+        "Marca: Blue Steel",
+        "Tecido: Pele Artificial (Tecido Plano)",
+        "Composição: 100% Poliéster",
+        "Composilçao forro: 100% Poliéster"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/600617645/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 9,
+      "price": 179.9,
+      "description": "Camisa, em jeans, manga longa com estampa em lettering estilo grafite. A camisa jeans é um marco na moda contemporânea que nunca perde a força. De estilo arrojado e irreverente, a peça ainda conta com estamparia toda em lettering com estilo grafite. Quer um visual ousado, urbano e superestiloso? Aposte nessa peça e arrase!",
+      "name": "CAMISA EM JEANS MANGA LONGA COM LETTERING ESTILO GRAFITE AZUL",
+      "quantity_available": 5,
+      "summary": [
+        "Camisa masculina",
+        "Gola colarinho",
+        "Manga longa",
+        "Fechamento por abotoamento",
+        "01 bolso",
+        "Estampa lettering estilo grafite",
+        "Marca: Blue Steel",
+        "Material e Processo Sustentável",
+        "Tecido: Jeans (Tecido Plano)",
+        "Composição: 100% Algodão"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/616826581/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 10,
+      "price": 299.9,
+      "description": "Jaqueta em sherpa, com gola colarinho e abotoamento frontal com botões de pressão. O modelo super aconchegante e com tecido bem quentinho, oferece ao visual estilo e ao corpo muito conforto. Perfeita para usar em dias mais frios, é uma ótima apostas para usar como sobreposição e causar com looks fashions e sofisticados.",
+      "name": "JAQUETA EM SHERPA COM ABOTOAMENTO E BOLSOS FRONTAIS MARROM",
+      "quantity_available": 32,
+      "summary": [
+        "Jaqueta feminina",
+        "Gola colarinho",
+        "Manga longa",
+        "Abotoamento frontal",
+        "Botões de pressão",
+        "02 bolsos frontais com lapela e botão",
+        "Marca: Blue Steel",
+        "Tecido: Sherpa (Tecido Plano)",
+        "Composição: 100% Poliéster"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/600663668/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 11,
+      "price": 139.9,
+      "description": "Blusão, em tricô, com estampa em recortes com blocos de cor. O bom e velho blusão de tricô com um ar super moderno e irreverente. Esta é a definicão da peça. Sua composição em lã acrílica é hipoalergênica. Prático e lindo!",
+      "name": "BLUSÃO EM TRICÔ COM LISTRAS EM RECORTES DE COR PRETO",
+      "quantity_available": 4,
+      "summary": [
+        "Blusão masculino",
+        "Gola redonda ",
+        "Manga longa",
+        "Estampa em recortes com blocos de cor",
+        "Marca: Blue Steel",
+        "Material Sustentável",
+        "Tecido: Tricô (Malha)",
+        "Composição: 100% Acrílico"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/598271891/zoom/1.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 12,
+      "price": 159.9,
+      "description": "Blusa manga longa com gola alta. Modernina, a peça conta com pelinhos deixando o visual super aconchegante e quentinho. Combine com seu jeans favorito e deixe seu visual além de confortável, muito moderninho.",
+      "name": "BLUSA EM POLIAMIDA GOLA ALTA COM PELINHOS MARROM",
+      "quantity_available": 8,
+      "summary": [
+        "Blusa feminina",
+        "Gola alta",
+        "Manga longa",
+        "Com pelinhos",
+        "Sem estampa",
+        "Marca: Cortelle",
+        "Tecido: Poliamida (Malha)",
+        "Composição: 73% Poliamida 27% Poliéster"
+      ],
+      "img": "https://img.lojasrenner.com.br/item/606005682/zoom/1.jpg",
+      "isInCart": false
+    }
+  ]
+}
